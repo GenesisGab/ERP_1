@@ -3,4 +3,6 @@ Inicio
 https://genesisgab.github.io/School_ERP/
 
 
+http://127.0.0.1:61771/login.html
+
 
